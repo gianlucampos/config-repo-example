@@ -1,4 +1,4 @@
 kafka-migration:
   topics:
-    entregar.pacoca.seu_ze: aws
+    entregar.pacoca.seu_ze: gcp
     pagar.sorvete.seu_joao: gcp
